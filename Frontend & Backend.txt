@@ -1,0 +1,37 @@
+//Embedded Javascript Templating Language or Engine which is popularly known as EJS
+//is one of the most popular template engines for JavaScript. As the name suggests, it lets us embed JavaScript code in a template language
+//that is then used to generate HTML. Also use to generate a dynamic html.
+
+//Mongodb is bascially a database for storing, deleting and retrieving of our data information from our applications.
+
+//ExpressJs is a framework that sits on top of NodeJS and helps us to handle requests and responses. is a back end web application
+//framework for building RESTful APIs with Node.js
+
+//NodeJS is the package, which provides the JavaScript run-time environment,
+
+//Express-Session an HTTP server-side framework used to create and manage a session middleware.
+
+//Cookies are files created by websites you visit. They make your online experience easier by saving browsing information.
+//With cookies, sites can keep you signed in, remember your site preferences, and give you locally relevant content.
+
+//localStorage Hard disk drive, a data storage device used for storing and retrieving digital information
+
+//Context API is a way for a React app to effectively produce global variables that can be passed around. e.g userAuth, theme, redux e.t.c
+
+//Redux is a state managing library used in JavaScript apps. It simply manages the state of your application or in other words, it is used to manage
+// the data of the application.
+
+//Web hosting makes the site dependent on a single physical server. It reduces the overall reliability of the resources. Cloud hosting offers a network of
+//servers that store your data. If one server goes down due to hardware failure, it is quickly replaced by another.
+//Example of Web Hosting are : GoDaddy , cloudways, ipage, dreamHost, Heroku
+//Example of Cloud Hosting are: Netlify, Cyclic, Vercel, Render
+
+Frontend Technology : EJS
+Backend Technology: Nodejs, Expressjs
+
+We are also going to send request from client side or frontend
+We are also going to send response from backend
+
+As for our technology we will be changing of MERN to MEEN
+MERN - MongoDB, E - Expressjs, R - Reactjs, N - Nodejs
+MERN - MongoDB, E - Expressjs, E - Ejs, N - Nodejs
